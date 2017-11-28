@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav>
+    <a href="websites.html">Home</a><br>
+    <a href="secondPage.html">Second Page</a>
+</nav>
+</body>
+</html>
